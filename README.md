@@ -134,15 +134,6 @@ Vincula tu número sin escanear un código QR.
 
 Sube el archivo `creds.json` a la carpeta `session/` de tu repositorio.
 
-### Paso 3. Elige tu plataforma de despliegue
-
-| Plataforma | Tipo | Enlace |
-|:---|:---|:---|
-| Tutorial en video | Guía paso a paso | [Ver tutorial](https://youtu.be/-oz_u1iMgf8) |
-| Bot Hosting Panel | Panel gratuito | [Desplegar](https://bot-hosting.net/?aff=1068419752923508776) |
-| Petrosky VPS | Servidor privado | [Contratar](https://client.petrosky.io/aff.php?aff=394) |
-| Katabump Panel | Panel alternativo | [Desplegar](https://dashboard.katabump.com/auth/login#d6b7d6) |
-
 ---
 
 ## ⚙️ Instalación local
